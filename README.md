@@ -30,3 +30,14 @@ If you're using Docker Compose v2, simply use:
 docker compose up --build -d
 
 For Jenkins-in-Docker setup instructions, refer to the project documentation or reach out if you need guidance.
+
+## 📸 Screenshots
+
+### 🐳 Docker / Compose Output
+![Docker Screenshot](screenshots/docker.jpeg)
+
+### 🌐 App Response (Postman / curl)
+![Postman Screenshot](screenshots/postman.jpeg)
+
+### 💻 Shell / Console Output
+![Shell Screenshot](screenshots/shell.jpeg)
